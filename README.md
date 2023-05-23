@@ -23,8 +23,8 @@ In this challenge, I replicated the design of a QR code component using HTML and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bolowys33/Frontend-Mentor--QR-code-component-solution)
-- Live Site URL: [Add live site URL here](https://bolowys33.github.io/Frontend-Mentor--QR-code-component-solution/)
+- Solution URL: [Solution URL](https://github.com/bolowys33/Frontend-Mentor--QR-code-component-solution)
+- Live Site URL: [Live Site](https://bolowys33.github.io/Frontend-Mentor--QR-code-component-solution/)
 
 ## My process
 
