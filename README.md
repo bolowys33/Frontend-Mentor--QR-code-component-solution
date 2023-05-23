@@ -10,16 +10,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
+In this challenge, I replicated the design of a QR code component using HTML and crude CSS properties to make the style and design.
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images\Screen.png)
 
 ### Links
 
@@ -27,6 +27,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Add live site URL here](https://bolowys33.github.io/Frontend-Mentor--QR-code-component-solution/)
 
 ## My process
+
+To kickstart the development process, I began by creating the HTML markup for the QR code component.
+
+Moving on to the stylesheet, I took a systematic approach to styling the component. I focused on one component at a time, ensuring its visual appearance and functionality before moving on to the next.
+
+Throughout the process, I maintained a keen eye for aesthetics and user experience, striving to create a visually pleasing and intuitive QR code component. By following this systematic and meticulous approach, I ensured that every aspect of the design was thoughtfully implemented.
 
 ### Built with
 
@@ -36,7 +42,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+During this project, I gained valuable insights and acquired new skills that significantly contributed to my growth as a frontend developer. One noteworthy accomplishment was mastering the art of creating cards with responsive images while preserving their aspect ratio.
 
 ```css
 .qr-text{
@@ -46,11 +52,6 @@ Use this section to recap over some of your major learnings while working throug
     text-align: center;  
 }
 ```
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
