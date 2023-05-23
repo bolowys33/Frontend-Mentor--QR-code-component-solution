@@ -19,7 +19,7 @@ In this challenge, I replicated the design of a QR code component using HTML and
 
 ### Screenshot
 
-![](images\Screen.png)
+![](./images/Screen.png)
 
 ### Links
 
@@ -54,6 +54,6 @@ During this project, I gained valuable insights and acquired new skills that sig
 ```
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Olubodun Taiwo](https://bolowys33.github.io/lesson_three_task_six_bolodeoku_taiwo/)
 - Frontend Mentor - [@bolowys33](https://www.frontendmentor.io/profile/bolowys33)
 - Twitter - [@bolowystaiwo](https://www.twitter.com/bolowystaiwo)
